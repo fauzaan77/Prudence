@@ -1,0 +1,296 @@
+const Map<String, String> en = {
+  // WELCOME SCREEN
+  'splashText': 'We Deliver your parcel to your ',
+  'destination': 'Destination',
+
+  'slider1Heading': 'Smooth Order Processing',
+  'slider2Heading': 'Wider Coverage',
+  'slider3Heading': 'Real time Notification',
+  'sliderDescription':
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+  'skip': 'Skip',
+  'next': 'Next',
+  'finish': 'Finish',
+
+  'login': 'LOGIN',
+  'letsStart': 'Let\'s Start With Your',
+  'phone': 'Phone',
+  'enterPhone': 'Enter phone number',
+  'getOtp': 'Get OTP',
+
+  'verifyOtp': 'Verify OTP',
+  'weHaveSent': 'We have sent a verification code to',
+  'number': '+91 745656565656',
+  'resend': 'Resend SMS in 20 sec',
+
+  'welcome': 'Welcome!!',
+  'requiredSteps': 'Required few steps to create account',
+  'personalInfo': 'Personal Information',
+  'uploadProfilePhoto': 'Upload Profile Photo',
+  'bank': 'Bank Details',
+  'termsNConditions': 'Terms & Conditions',
+
+  'yourPersonalInfo': 'Your Personal Info',
+  'firstname': 'First Name',
+  'lastname': 'Last Name',
+  'emailAddress': 'Email address',
+  'phoneNumber': 'Phone Number',
+  'address': 'Address',
+  'password': 'Password',
+  'confirmPassword': 'Confirm Password',
+  'emailTitle': 'Email',
+  'loginWithEmail': 'Login With Email',
+  'loginWithPhone': 'Login With Phone',
+
+  'photoRequirement': 'Photo requirement',
+  'keepFaceCenter': 'Keep your face in the center',
+  'brightPlace': 'Take photo in a bright lit place',
+  'dontWear': 'Don\'t wear sunglasses',
+  'blurr': 'Make sure photo is not blurred',
+  'flip': 'Flip',
+  'gallery': 'Gallery',
+  'enterBank': 'Enter Bank Account Details',
+  'ifsc': 'IFSC Code',
+  'branch': 'Branch Name',
+  'accountNumber': 'Account Number',
+  'loremTextBrief':
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas eu sit ac cras egestas nisi. Adipiscing a adipiscing non aliquet sapien pharetra, metus volutpat senectus. Nisl placerat dictum purus cursus. Ultrices ultrices erat fermentum sed condimentum quam elementum, imperdiet. Tincidunt sagittis su. Sodales lectus ut risus, viverra amet nisi adipiscing. Blandit.',
+  'iHereby': 'I, hereby, read and agreed to all T&Cs.',
+  'proceed': 'Proceed',
+  'stepsComplete':
+      'You have completed all required steps to become a verified Delivery Agent. We\'ll review your documents and contact you as soon as possible.',
+
+// HOME SCREEN
+  'home': 'Home',
+  'order': 'Orders',
+  'notifications': 'Notifications',
+  'profile': 'Profile',
+  'createNewOrder': 'Create New Order',
+  'getCustomers': 'Get Your Customers To Relex',
+  'shipParcel': 'Ship Parcel',
+  'quickRecharge': 'Quick Recharge',
+  'rateCalculator': 'Shipping Rate Calculator',
+  'needHelp': 'Need Help?',
+  'raiseTicket': 'Raise tickets for issues on your orders',
+  'shipWithinCity': 'Ship Within City',
+  'shipDomestic': 'Ship Domestic',
+  'shipInternational': 'Ship International',
+
+// PROFILE SCREEN
+  'myProfile': 'My Profile',
+  'profileName': 'Alex Brown',
+  'profileEmail': 'alexbrown@gmail.com',
+  'support': 'Support',
+  'logout': 'Logout',
+  'wallet': 'Wallet',
+
+// WALLET SCREEN
+
+  'walletBalance': 'Wallet balance',
+  'viewHistory': 'View History',
+  'continue': 'Continue',
+  'addMoney': 'Add money to your wallet',
+  'chooseAmt': 'Choose an amount',
+  'enterAmt': 'Enter an amount',
+
+// TRANSACTION HISTORY
+
+  'transactionHistory': 'Transaction History',
+  'historyNote': 'Transaction history from wallet',
+  'refundPayment': 'Refund payment',
+  'paymentMode': 'Payment mode name',
+  'dollar': '\$',
+
+// MY ORDERS SCREEN
+
+  'myOrders': 'My Orders',
+  'sendPackage': 'Send a Package',
+  'orderLocation': 'The Lake District',
+  'orderLocDetailed': 'Saswad - Bopdev - Pune Road, Yewalewadi, Maha...',
+  'delivered': 'Delivered',
+  'viewDetails': 'View Details',
+  'orderDate': 'Jun 10, 2023 10:12 PM',
+  'all': 'All',
+  'upcoming': 'Upcoming',
+  'past': 'Past',
+  'pinForRide': 'PIN for this ride',
+  'selectCity': 'Select City',
+  'noCitiesFound': 'No cities found',
+  'noAirportsFound': 'No airports found',
+  'noPickupCollectionCenterFound': 'No pickup collection centers found',
+
+  // ORDER DETAILS SCREEN
+
+  'orderId': 'Order ID',
+  'packageDelivered': 'Package has been Delivered',
+  'pickupAddress': 'Pickup Address',
+  'dropOffAddress': 'Dropoff Address',
+  'phNumber': '+915413221324',
+  'packageDetails': 'Package Details',
+  'large': 'Large',
+  'weight': '120-139 lbs.',
+  'viewReceipt': 'View Receipt',
+  'driverDetails': 'Driver Details',
+  'driverName': 'Desmond Miles',
+  'ordersCompleted': '50+ orders completed',
+  'rateNow': 'Rate Now',
+  'deliveryFare': 'Delivery Fare',
+  'deliveryCharge': 'Delivery Charge',
+  'vat5': 'VAT 5%',
+  'subtotal': 'Subtotal',
+  'totalAmt': 'Total amount',
+  'paidBy': 'Paid by',
+
+  // SEND PACKAGE SCREEN
+
+  'sendInternational': 'Send an International Package',
+  'pickupCity': 'What\'s your Pickup City?', 'enterCity': 'Enter Pickup City',
+  'enterTheAddress':
+      'Enter the address to find out when the Parcel will arrive',
+
+  // PICK AIRPORT SCREEN
+
+  'pickupAirport': 'What\'s your Pickup City Airport?',
+  'enterAirport': 'Enter Pickup city Airport',
+  'pickupCollectionCenter': 'What\'s your Pickup Collection Center?',
+  'whereToShip': 'Where do you want to ship?',
+
+  // SHIPPING FROM SCREEN
+
+  'shippingFrom': 'Shipping From',
+  'shippingTo': 'Shipping To',
+  'punePincode': 'Pune-411045',
+  'search': 'Search',
+  'contactPersonName': 'Contact Person Name',
+  'areYouReceiver': 'Are You Receiver ?',
+  'detailedAddress': 'Detailed Address of Delivery point',
+  'instructionForParcel': 'Instruction for Parcel',
+  'theParcelWillBuy':
+      'The parcel will buy out the goods, receive cash or carry out other instructions.',
+  'enterOrderDetails': 'Enter Order Details',
+
+// ADDRESS SELECTION
+
+  'addressSelection': 'Address Selection',
+  'done': 'Done',
+  'currentLoc': 'Use Current Location',
+  'selectOrderKind': 'Please select what kind of order you want to add',
+  'nonUrgent': 'Non-urgent',
+  'turtle': 'Turtle Style up to 14 days',
+  'urgent': 'Urgent',
+  'rabbit': 'Rabbit Style 3-7 days',
+  'tortoise': 'Tortoise Air',
+  'cheetah': 'Cheetah Style 24-48 hours',
+
+// PICKUP DATE
+
+  'selectPickupDate': 'Select Pickup Date',
+  'selectWeight': 'Select package weight',
+  'packageWeight': 'Weight',
+  'packageSize': 'Select package size',
+  'verySmall': 'Very Small',
+  'verySmallDesc': '12 inches by 12 inches by 12 inches or smaller.',
+  'pickupDate': 'Pickup Date',
+  'small': 'Small',
+
+// REQUEST SUMMARY
+
+  'requestSummary': 'Request Summary',
+  'noCouponsAvailable': 'No Coupon Applied',
+  'applyCoupon': 'Apply Coupon',
+  'coupons': 'Coupons',
+  'availableCoupons': 'Available Coupons',
+  'apply': 'Apply',
+  'payNow': 'Pay Now',
+
+  'orderCreated':
+      'Your Order is Created. AN OTP will be generated by the app automatically. We Notify you via message or call.',
+  'pickupAddressOf': 'Pickup address of Package',
+  'deliveryAddressOf': 'Delivery address of Package',
+
+  'pickupPersonDetail': 'Pickup person Details',
+  'deliveryPersonDetail': 'Delivery person Details',
+  'instructionForPackage': 'Instructions for the Package',
+  'parcelInstruction': 'Give instructions here...',
+  'pending': 'Your order is pending',
+  'checkPackageStatus': 'Check your package status',
+  'pickedUp': 'Picked up Parcel',
+  'startedDelivery': 'Started delivery of the parcel',
+  'reachedDrop': 'Reached Drop Location',
+  'trackPackage': 'Track Your Package',
+  'orderStatus': 'Order Status',
+  'goToHome': 'Go To Home',
+  'paymentMethod': 'Payment Method',
+  'orderDetails': 'Order Details',
+  'canceled': 'Your order has been cancelled',
+  'useCurrentLoc': 'Use Current Location',
+  'notification': 'Notification',
+  'desc': 'Description',
+  'paymentWallet': 'Wallet Balance \$ 100.00',
+  'pickupFromHome': 'Pickup From Home',
+  'deliverToOther': 'Deliver To Other',
+  'packageStatus': 'Package Status',
+
+// PAYMENT METHOD
+
+  'noResultsFound': 'No Results Found',
+  'searchCityCountry': 'Search City, Country',
+  'allCities': 'All cities',
+  'selectLocation': 'Select Location',
+  'enterAddress': 'Enter address',
+  'searchLocation': 'Search location',
+  'confirmLocation': 'Confirm Location',
+  'selectedLocation': 'Selected Location',
+  'recentLocations': 'Recent Locations',
+  'useCurrentLocation': 'Use current location',
+  'pleaseEnterAddress': 'Please enter a delivery address',
+  'pleaseEnterAValidName': 'Please enter a valid name',
+  'pleaseEnterAValidPhoneNumber': 'Please enter a valid phone number',
+  'selectParclType': 'Select package type',
+  'noParcelTypesFound': 'No parcel types found',
+  'weightTxt': 'Weight',
+  'couponApplied': 'Coupon Applied',
+  'noCouponsFound': 'No coupons found',
+  'discount': 'Discount',
+  'profileDetails': 'Profile details',
+  'personalInformation': 'Personal information',
+  'cancel': 'Cancel',
+  'confirm': 'Confirm',
+  "deleteAccount": "Delete Account",
+  "deleteAccountDesc": "Delete Account Permanently!",
+  "areYouSureYouWantToDeleteYourAccount":
+      "Are you sure you want to delete your account?",
+  'update': 'Update',
+  'raiseIssue': 'Raise Issue',
+  'pleaseLetUsKnow': 'Please let us know,',
+  'howWeCanServeBetter': 'How we can serve you better?',
+  'selectIssue': 'Select Issue',
+  'typeMsg': 'Type Message...',
+  'submit': 'Submit',
+  'pleaseFillAllDetails': 'Please fill all details to continue.',
+  'noIssuesFound': 'No issues found',
+  'issue': 'Issue',
+  'status': 'Status',
+  'issueDate': 'Issue date',
+  'issueDescription': 'Issue description',
+  'admin': 'Admin',
+  'noUpcomingBooking': 'No upcoming bookings',
+  'noPastBooking': 'No past bookings',
+  'noOngoingBooking': 'No ongoing bookings',
+  'noBookings': 'No bookings',
+  'call': 'Call',
+  'pickedUpParcel': 'Picked Up',
+  'pickedUpParcelDesc': 'Your parcel has been Picked Up.',
+  'reachedDropLocation': 'Reached Drop Location',
+  'reachedDropLocationDesc': 'Carrier has Reached Drop Location',
+  'vat': 'Vat',
+  'selectPickupCity': 'Select Pickup City',
+  'selectDestinationCity': 'Select Destination City',
+  'pleaseSelectPickupCityToContinue':
+      'Please select a pickup city to continue.',
+  'pleaseSelectDestCityToContinue':
+      'Please select a destination city to continue.',
+  'resendOtpIn': 'Resend SMS in',
+  'sec': 'sec',
+  'resendSms': 'Resend SMS'
+};

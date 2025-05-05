@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198372013041",
+    "project_id": "airshipxp",
+    "storage_bucket": "airshipxp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198372013041:android:d1d446f3dbc50467408a50",
+        "android_client_info": {
+          "package_name": "com.airshipxp.shipper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATQ-lp8AYCve_xE61xX7yZAdwHbaO1jHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
