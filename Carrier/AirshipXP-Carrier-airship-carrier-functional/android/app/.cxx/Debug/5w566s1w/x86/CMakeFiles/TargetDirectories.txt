@@ -1,0 +1,2 @@
+/Users/mohammedfauzaan/Desktop/Carrier/AirshipXP-Carrier-airship-carrier-functional/android/app/.cxx/Debug/5w566s1w/x86/CMakeFiles/edit_cache.dir
+/Users/mohammedfauzaan/Desktop/Carrier/AirshipXP-Carrier-airship-carrier-functional/android/app/.cxx/Debug/5w566s1w/x86/CMakeFiles/rebuild_cache.dir
